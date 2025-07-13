@@ -129,4 +129,9 @@ dmypy.json
 .pyre/
 
 # my custom folders
-obsidian-primary-vault/
+obsidian-primary-vault/*
+!obsidian-primary-vault/bou-cse/
+!obsidian-primary-vault/bou-cse/**
+.obsidian/
+.makemd/
+.space/
