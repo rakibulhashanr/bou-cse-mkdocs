@@ -132,6 +132,8 @@ dmypy.json
 obsidian-primary-vault/*
 !obsidian-primary-vault/bou-cse/
 !obsidian-primary-vault/bou-cse/**
+!obsidian-primary-vault/Media\ Library/
+!obsidian-primary-vault/Media\ Library/**
 .obsidian/
 .makemd/
 .space/
