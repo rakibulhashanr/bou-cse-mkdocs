@@ -1,6 +1,6 @@
 site_name: Bou CSE Resources
 site_url: https://mydomain.org/mysite
-docs_dir: "docs/obsidian-vault"
+# docs_dir: "docs/obsidian-vault"
 theme:
   name: material
   font:
