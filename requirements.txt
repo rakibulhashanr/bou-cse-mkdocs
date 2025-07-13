@@ -1,1 +1,6 @@
-pip install mkdocs-material mkdocs-glightbox mkdocs-obsidian-bridge mkdocs-get-deps pymdown-extensions
+mkdocs
+mkdocs-material
+mkdocs-glightbox
+mkdocs-obsidian-bridge
+pymdown-extensions
+mkdocs-get-depsmkdocs-get-deps
