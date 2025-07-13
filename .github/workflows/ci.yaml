@@ -27,5 +27,5 @@ jobs:
             mkdocs-material-
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install mkdocs-material mkdocs-glightbox mkdocs-obsidian-bridge mkdocs-get-deps
       - run: mkdocs gh-deploy --force
