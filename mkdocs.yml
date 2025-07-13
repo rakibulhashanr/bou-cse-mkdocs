@@ -29,7 +29,7 @@ theme:
 plugins:
   - get-deps:
       - source: obsidian-primary-vault/bou-cse
-        target: docs/obsidian-vault
+        target: docs
   - search
   - glightbox
   - obsidian-bridge
