@@ -1,28 +1,41 @@
-# Welcome to MkDocs
+# BOU CSE Resources
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the **Bangladesh Open University – Computer Science & Engineering (CSE)** resource hub.
 
-```bash
-venv\Scripts\activate
-```
-![alt text](e6bc26c7a2617dafea44379d5d236b97.gif)
-## Commands
+This site is dedicated to organizing and sharing study materials, notes, and reference content for all 8 semesters of the BOU CSE program.
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+---
 
-```js title="intro.js" linenums="1" hl_lines="2-3"
-const a = "Bangladesh";
-let b = 1;
-let c = 2;
-let sum = b + c;
-```
+## 📚 What's Inside
 
-## Project layout
+- **Semester-wise resources** organized for easy access
+- **Class notes**, **lecture slides**, **books**, and **handwritten summaries**
+- Curated content to help you study smarter and stay prepared
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## 🎯 Why This Site?
+
+Many BOU students struggle to find centralized, organized academic content. This site aims to:
+
+- Collect all useful materials in one place
+- Reduce confusion and save time
+- Support students preparing for exams and assignments
+
+---
+
+## 📅 Coverage
+
+- Semester 1 to Semester 8
+- Courses include Programming, Data Structures, DBMS, Networking, Web Development, and more
+
+---
+
+## 💡 How to Use
+
+Navigate through the sidebar or choose a semester to start exploring resources.  
+All materials are grouped by course for your convenience.
+
+---
+
+> This project is community-driven. If you have notes or materials you'd like to contribute, feel free to reach out!
