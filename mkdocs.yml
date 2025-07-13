@@ -1,6 +1,6 @@
 site_name: Bou CSE Resources
 site_url: https://mydomain.org/mysite
-# docs_dir: "docs/obsidian-vault"
+docs_dir: "obsidian-primary-vault"
 theme:
   name: material
   font:
@@ -27,9 +27,9 @@ theme:
       primary: blue
       accent: deep orange
 plugins:
-  - get-deps:
-      - source: "F:/Rakibul hashan/Obsidian Primary Valult/bou-cse"
-        target: docs/obsidian-vault
+  # - get-deps:
+  #     - source: obsidian-primary-vault/bou-cse
+  #       target: docs/obsidian-vault
   - search
   - glightbox
   - obsidian-bridge
