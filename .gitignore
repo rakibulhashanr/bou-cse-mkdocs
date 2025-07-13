@@ -129,11 +129,19 @@ dmypy.json
 .pyre/
 
 # my custom folders
-obsidian-primary-vault/*
-!obsidian-primary-vault/bou-cse/
-!obsidian-primary-vault/bou-cse/**
-!obsidian-primary-vault/Media\ Library/
-!obsidian-primary-vault/Media\ Library/**
-.obsidian/
-.makemd/
-.space/
+# Ignore everything in bou-resources
+bou-resources/*
+
+# But keep these two folders and their contents
+!bou-resources/bou-cse/
+!bou-resources/bou-cse/**
+
+!bou-resources/Media Library/
+!bou-resources/Media Library/**
+
+# Explicitly ignore Obsidian/system folders
+bou-resources/.obsidian/
+bou-resources/.makemd/
+bou-resources/.space/
+bou-resources/.stfolder/
+bou-resources/.trash/

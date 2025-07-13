@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "1ed7258c83ee8559",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac727154d3d671ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a316ab83f107ebce",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Mnemonic University"
+              },
+              "icon": "lucide-file",
+              "title": "Mnemonic University"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35bf8bdbb2bc478e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c2355f2b54773a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e230003f34d13f19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57161c616ebab1ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64007d034e7e2ff2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1937bd50d186d041",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac3b98c8496a3b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aa9da6098230ad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770442e79436ff8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Business/[Chapter wise] Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for [Chapter wise] Questions"
+            }
+          },
+          {
+            "id": "362b56f7317531bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Business/[Chapter wise] Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from [Chapter wise] Questions"
+            }
+          },
+          {
+            "id": "b6178f2fe8109945",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "00f261cf6a562b8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Business/[Chapter wise] Questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of [Chapter wise] Questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "math-indicator-changer:Change math indicator": false,
+      "chat-with-bard:New Gemini Chat": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "a316ab83f107ebce",
+  "lastOpenFiles": [
+    "Mnemonic University/Mnemonic University.md",
+    "bou-cse/1 1 Semester/Business/[Study Plan] Business.md",
+    "Media Library/image-31.png",
+    "bou-cse/1 1 Semester/Business/Join Stock Company.md",
+    "bou-cse/1 1 Semester/Business/Journal and Tabular Sheet Rules.md",
+    "bou-cse/1 1 Semester/Business/![[image-29.png364x180]].md",
+    "bou-cse/1 1 Semester/Business/CT 02 Question.md",
+    "bou-cse/12 Semester/Linear Algebra and Differential Equations/Linear Algebra and Differential Equations.md",
+    "bou-cse/1 1 Semester/MATH/[Analysis] - MATH prev. yr question.md",
+    "bou-cse/1 1 Semester/ENG/ENG.md",
+    "bou-cse/1 1 Semester/ENG/Letter Writing.md",
+    "bou-cse/1 1 Semester/ENG/ENG - Study Plan.md",
+    "bou-cse/1 1 Semester/CSE/Number System.md",
+    "bou-cse/1 1 Semester/CSE/Evolution of Computers.md",
+    "bou-cse/1 1 Semester/CSE/Number System (Addition).md",
+    "image-1.png",
+    "bou-cse/1 1 Semester/MATH/All Formula.md",
+    "bou-cse/1 1 Semester/Business/e6bc26c7a2617dafea44379d5d236b97.gif",
+    "Media Library/e6bc26c7a2617dafea44379d5d236b97-3.gif",
+    "Media Library/e6bc26c7a2617dafea44379d5d236b97-2.gif",
+    "Media Library/e6bc26c7a2617dafea44379d5d236b97-1.gif",
+    "Tags",
+    "image.png",
+    "Media Library/image-1.png",
+    "bou-cse/1 1 Semester/CSE/[Analysis] Prev. Year Question.md",
+    "bou-cse/1 1 Semester/CSE/Computer Softwares.md",
+    "bou-cse/1 1 Semester/Business/Partnership.md",
+    "Media Library/Media Library.md",
+    "Media Library/Pasted image 20250508112547.png",
+    "Media Library/Pasted image 20250508112606.png",
+    "bou-cse/1 1 Semester/EEE/EEE.md",
+    "bou-cse/1 1 Semester/CSE/CSE.md",
+    "bou-cse/bou-cse.md",
+    "bou-cse/12 Semester/Linear Algebra and Differential Equations",
+    "bou-cse/12 Semester/12 Semester.md",
+    "bou-cse/12 Semester",
+    "bou-cse/1 1 Semester/1 1 Semester.md",
+    "bou-cse/1 1 Semester/CSE/Analysis - CSE Prev. Yr Questions.md",
+    "bou-cse/1 1 Semester/CSE/Untitled.md",
+    "bou-cse/templates",
+    "bou-cse",
+    "bou-cse/1 1 Semester",
+    "Obsidian Media",
+    "001_Common Taylor Expansions.pdf",
+    "Business/~syncthing~[Study Plan] Business.md.tmp",
+    "ENG/~syncthing~[Analysis ] - ENG.md.tmp"
+  ]
+}
