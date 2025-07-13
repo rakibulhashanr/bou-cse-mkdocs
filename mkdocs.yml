@@ -27,9 +27,9 @@ theme:
       primary: blue
       accent: deep orange
 plugins:
-  # - get-deps:
-  #     - source: obsidian-primary-vault/bou-cse
-  #       target: docs/obsidian-vault
+  - get-deps:
+      - source: obsidian-primary-vault/bou-cse
+        target: docs/obsidian-vault
   - search
   - glightbox
   - obsidian-bridge
