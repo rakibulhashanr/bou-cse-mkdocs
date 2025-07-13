@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac727154d3d671ef",
+        "id": "4fe71fd80cc049b9",
         "type": "tabs",
         "children": [
           {
-            "id": "a316ab83f107ebce",
+            "id": "33645d8a007e6044",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Mnemonic University"
+                "file": "bou-cse/1 1 Semester/Business/[Study Plan] Business.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Mnemonic University"
+              "title": "[Study Plan] Business"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "1937bd50d186d041",
+            "id": "e7a877e14feef28f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,14 +181,18 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "a316ab83f107ebce",
+  "active": "33645d8a007e6044",
   "lastOpenFiles": [
-    "Mnemonic University/Mnemonic University.md",
+    "bou-cse/1 1 Semester/Business/![[image-29.png364x180]].md",
     "bou-cse/1 1 Semester/Business/[Study Plan] Business.md",
+    "bou-cse/1 1 Semester/Business/[Chapter wise] Questions.md",
+    "bou-cse/1 1 Semester/Business/e6bc26c7a2617dafea44379d5d236b97.gif",
+    "bou-cse/index.md",
+    "bou-cse/index.smd",
+    "Mnemonic University/Mnemonic University.md",
     "Media Library/image-31.png",
     "bou-cse/1 1 Semester/Business/Join Stock Company.md",
     "bou-cse/1 1 Semester/Business/Journal and Tabular Sheet Rules.md",
-    "bou-cse/1 1 Semester/Business/![[image-29.png364x180]].md",
     "bou-cse/1 1 Semester/Business/CT 02 Question.md",
     "bou-cse/12 Semester/Linear Algebra and Differential Equations/Linear Algebra and Differential Equations.md",
     "bou-cse/1 1 Semester/MATH/[Analysis] - MATH prev. yr question.md",
@@ -199,7 +204,6 @@
     "bou-cse/1 1 Semester/CSE/Number System (Addition).md",
     "image-1.png",
     "bou-cse/1 1 Semester/MATH/All Formula.md",
-    "bou-cse/1 1 Semester/Business/e6bc26c7a2617dafea44379d5d236b97.gif",
     "Media Library/e6bc26c7a2617dafea44379d5d236b97-3.gif",
     "Media Library/e6bc26c7a2617dafea44379d5d236b97-2.gif",
     "Media Library/e6bc26c7a2617dafea44379d5d236b97-1.gif",
@@ -219,14 +223,11 @@
     "bou-cse/12 Semester/12 Semester.md",
     "bou-cse/12 Semester",
     "bou-cse/1 1 Semester/1 1 Semester.md",
-    "bou-cse/1 1 Semester/CSE/Analysis - CSE Prev. Yr Questions.md",
-    "bou-cse/1 1 Semester/CSE/Untitled.md",
     "bou-cse/templates",
     "bou-cse",
     "bou-cse/1 1 Semester",
     "Obsidian Media",
     "001_Common Taylor Expansions.pdf",
-    "Business/~syncthing~[Study Plan] Business.md.tmp",
-    "ENG/~syncthing~[Analysis ] - ENG.md.tmp"
+    "Business/~syncthing~[Study Plan] Business.md.tmp"
   ]
 }

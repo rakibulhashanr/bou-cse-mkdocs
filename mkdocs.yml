@@ -9,15 +9,22 @@ theme:
   logo: assets/logo-bou.png
   favicon: assets/logo-bou.png
   features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.footer
+    - navigation.sections
+    # - navigation.expand
+    - navigation.path
+    - navigation.top
   palette:
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: green
-      accent: deep purple
+      primary: deep purple
+      accent: light green
 
     # Light Mode
     - scheme: default
@@ -30,6 +37,8 @@ plugins:
   - search
   - glightbox
   - obsidian-bridge
+  - awesome-pages
+
 # git branch -M main
 
 # git push -u origin main
@@ -38,7 +47,7 @@ extra:
   social:
     - icon: fontawesome/brands/mastodon
       link: https://fosstodon.org/@squidfunk
-
+  generator: false
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
