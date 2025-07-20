@@ -1,5 +1,12 @@
 site_name: Bou CSE Resources
-# site_url: https://mydomain.org/mysite
+site_url: https://rakibulhashanr.github.io/boucse/
+# nav:
+#   - Home: index.md
+#   - Resources:
+#       - Overview: bou-resources/index.md # This fixes the `/bou-resources/` link
+#       - Tags: bou-resources/Tags/index.md
+#   - CSE Topics:
+#       - All: bou-resources/bou-cse/
 
 theme:
   name: material
@@ -10,12 +17,15 @@ theme:
   favicon: assets/logo-bou.png
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.footer
     - navigation.sections
+    - navigation.indexes
+    - toc.follow
     # - navigation.expand
-    - navigation.path
     - navigation.top
   palette:
     # Dark Mode
@@ -45,8 +55,15 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rakibulhashanrabbi/
+  meta:
+    - name: google-site-verification
+      content: WF9pE13AKFsCCA2jWrdrIyYoY6uIxRTfKLnmglH1W-g
+    - name: description
+      content: "Free CSE study materials for Bangladesh Open University students."
+    - name: keywords
+      content: "bou admission, bou cse admission, bou cse admission circular, bou cse, bou cse resources, bangladesh open university, bou sst"
   generator: false
 markdown_extensions:
   - pymdownx.arithmatex:

@@ -8,16 +8,13 @@ The program is structured into **4 academic years**, each consisting of **2 seme
 
 ## 📅 Semester Breakdown
 
+=== "All"
+
+    [10 Batch DRC Google Drive](https://drive.google.com/drive/folders/19kpt_tGQx-n6eeMbTlfHixPcpop21odu?usp=sharing)
+
 === "1️⃣ First Year"
 
     [10 Batch DRC Google Drive](https://drive.google.com/drive/folders/19kpt_tGQx-n6eeMbTlfHixPcpop21odu?usp=sharing)
-    === "Nested Tab A"
-
-        Content for nested tab A inside top tab 1.
-
-    === "Nested Tab B"
-
-        Content for nested tab B inside top tab 1.
 
 === "2️⃣ Second Year"
 

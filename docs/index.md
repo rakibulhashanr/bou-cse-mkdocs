@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # BOU CSE Resources
 
 Welcome to the **Bangladesh Open University – Computer Science & Engineering (CSE)** resource hub.
