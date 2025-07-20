@@ -64,7 +64,7 @@ extra:
       content: "Free CSE study materials for Bangladesh Open University students."
     - name: keywords
       content: "bou admission, bou cse admission, bou cse admission circular, bou cse, bou cse resources, bangladesh open university, bou sst"
-  generator: false
+
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
