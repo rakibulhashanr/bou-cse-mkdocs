@@ -8,21 +8,20 @@ The program is structured into **4 academic years**, each consisting of **2 seme
 
 ## 📅 Semester Breakdown
 
-### 🧑‍🎓 First Year
-- [1st Semester – Foundation Courses]()
-- [2nd Semester – Basic Programming]()
+=== "1️⃣ First Year"
 
-### 👨‍💻 Second Year
-- [3rd Semester – Core Computer Science Begins]()
-- [4th Semester – Advanced Programming & Math]()
+    [10 Batch DRC Google Drive](https://drive.google.com/drive/folders/19kpt_tGQx-n6eeMbTlfHixPcpop21odu?usp=sharing)
+    === "Nested Tab A"
 
-### 🧠 Third Year
-- [5th Semester – Data & Algorithms]()
-- [6th Semester – Networking & DBMS]()
+        Content for nested tab A inside top tab 1.
 
-### 🚀 Final Year
-- [7th Semester – Web, AI & Electives]()
-- [8th Semester – Project & Final Courses]()
+    === "Nested Tab B"
+
+        Content for nested tab B inside top tab 1.
+
+=== "2️⃣ Second Year"
+
+    This is top-level tab 2.
 
 ---
 

@@ -4,6 +4,25 @@ Welcome to the **Bangladesh Open University – Computer Science & Engineering (
 
 This site is dedicated to organizing and sharing study materials, notes, and reference content for all 8 semesters of the BOU CSE program.
 
+<div class="grid cards" markdown>
+
+- [![Image 1](docs/assets/folder-images/0.png)](https://example.com/1)
+
+- [![Image 2](docs/assets/folder-images/01.png)](https://example.com/2)
+
+- [![Image 3](docs/assets/folder-images/1.png)](https://example.com/3)
+
+- [![Image 5](docs/assets/folder-images/2.png)](https://example.com/5)
+
+- [![Image 6](docs/assets/folder-images/3.png)](https://example.com/6)
+
+- [![Image 7](docs/assets/folder-images/4.png)](https://example.com/7)
+
+- [![Image 8](docs/assets/folder-images/5.png)](https://example.com/8)
+- [![Image 4](docs/assets/folder-images/6.png)](https://example.com/4)
+
+</div>
+
 ---
 
 ## 📚 What's Inside
